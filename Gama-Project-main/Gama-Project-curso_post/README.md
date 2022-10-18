@@ -1,2 +1,0 @@
-# Gama-Project
-DinDin Project 
