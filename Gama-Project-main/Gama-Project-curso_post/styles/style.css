@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body{
+
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+}
+
+header{
+    position: absolute;
+    width: 1490px;
+    height: 117px;
+    left: 0px;
+    top: 0px;
+
+    background: #2E948A;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+}
+
+#img-logo-header{
+    position: absolute;
+    width: 244px;
+    height: 77px;
+    left: 82px;
+    top: 20px;    
+}
+
+#menu{
+    position: absolute;
+    width: 309px;
+    height: 23px;
+    left: 1028px;
+    top: 47px;
+}
+
+li{
+    display: inline-block;
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#intro{
+    position: absolute;
+    width: 929px;
+    height: 381px;
+    left: 202px;
+    top: 197px;
+}
+
+#img-intro{
+    position: absolute;
+    left: 58%;
+    right: 21.46%;
+    top: 0px;
+    bottom: 72.49%;
+}
+
+#title{
+    position: absolute;
+    width: 512px;
+    height: 126px;
+    left: 40px;
+    top: -40px;
+
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 63px;
+
+    color: #FF4081;
+}
+
+#par-main{
+    position: absolute;
+    width: 461px;
+    height: 186px;
+    left: 40px;
+    top: 90px;
+
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+#container{
+    position: absolute;
+    width: 1490px;
+    height: 1550px;
+    left: 0px;
+    top: 659px;
+
+    background: #f7f7f7;
+}
+
+#aula1{
+    position: absolute;
+    width: 1050px;
+    height: 261px;
+    left: 213px;
+    top: 134px;
+
+}
+
+.aula{
+    position: absolute;
+    width: 512px;
+    height: 40px;
+    left: 551px;
+    top: -30px;
+
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+
+    color: #FF4081;
+}
+
+.paragrafo{
+    position: absolute;
+    width: 501px;
+    height: 195px;
+    left: 551px;
+    top: 40px;
+
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+}
+
+#linha1{
+    position: absolute;
+    width: 1244px;
+    height: 3px;
+    left: -100px;
+    top: 368px;
+
+    background: #c4c4c4;
+}
+
+#img-aula2{
+    position: absolute;
+    width: 462px;
+    height: 261px;
+    left: 212px;
+    top: 635px;
+}
+
+#tit-aula2{
+    position: absolute;
+    width: 106px;
+    height: 40px;
+    left: 765px;
+    top: 600px;
+
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+
+    color: #FF4081;
+}
+
+#par-aula2{
+    position: absolute;
+    width: 501px;
+    height: 195px;
+    left: 765px;
+    top: 680px;
+
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+#linha2{
+    position: absolute;
+    width: 1244px;
+    height: 3px;
+    left: 111px;
+    top: 1010px;
+
+    background: #c4c4c4;
+}
+
+#img-aula3{
+    position: absolute;
+    width: 462px;
+    height: 261px;
+    left: 212px;
+    top: 1158px;
+}
+
+#tit-aula3{
+    position: absolute;
+    width: 512px;
+    height: 40px;
+    left: 765px;
+    top: 1130px;
+
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+
+    color: #FF4081;
+}
+
+#par-aula3{
+    position: absolute;
+    width: 501px;
+    height: 195px;
+    left: 765px;
+    top: 1200px;
+
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+footer{
+    position: absolute;
+    width: 1490px;
+    height: 190px;
+    left: 0px;
+    top: 2210px;
+
+    background: #419488;
+}
+
+#roda-menu{
+    position: absolute;
+    left: 43.26%;
+    right: 51.81%;
+    top: 9%;
+    bottom: 34.4%;
+
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+}
+
+#botao1{
+    box-sizing: border-box;
+    position: absolute;
+    left: 70.42%;
+    right: 9.51%;
+    top: 55.07%;
+    bottom: 20.29%;   
+
+    border: 2px solid #ffffff;
+    border-radius: 62px;
+    background-color: #419488;
+    color: #ffffff;
+}
+
+#botao2{
+    box-sizing: border-box;
+    position: absolute;
+    left: 70.42%;
+    right: 9.51%;
+    top: 24.15%;
+    bottom: 51.21%;
+
+    border: 2px solid #ffffff;
+    border-radius: 62px;
+    background-color: #419488;
+    color: #ffffff;
+}
+
+#logo-footer{
+    position: absolute;
+    left: 8.89%;
+    right: 69.44%;
+    top: 25.6%;
+    bottom: 25.4%;
+}

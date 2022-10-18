@@ -1,0 +1,303 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: #2E948A;
+    color: #ffffff;
+    height: 117px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.logo img{
+    padding-top: 20px;
+     margin-right: 660px;
+}
+header ul{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    font-weight: 700;
+
+
+}
+.listas ul li{
+    margin-top: 47px;
+    margin-left: 42px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    /* margin-top: 47px; */
+    
+       
+}
+.container{
+    display: flex;
+    
+    
+
+}
+.titulo{
+    padding-left: 60px;
+}
+
+.titulo h1{
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 68.94px;
+    color: #FF4081;
+    margin-top: 125px;
+
+}
+.titulo h3{
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 31.02px;
+    color: #555555;
+    margin-top: 19px;
+}
+.titulo button{
+    width: 268px;
+    height: 51px;
+    border-radius: 62px;
+    border: solid #FF4081 2px;
+    color: #FF4081;
+    cursor: pointer;
+    font-size: 27px;
+    font-weight: 400;
+    margin-top: 38px;
+}
+.imagemt{
+    margin-top: 135px;
+}
+.container2{
+    display: flex;
+    background-color: #f6f6f6;
+    margin-top: 66px;}
+    
+  
+.invi img{
+    width: 288px;
+    height: 270px;
+    margin-top: 109px;
+}
+.invi h1{
+    margin-top: 45px;
+}
+.invi h3{
+    line-height: 19.53px;
+    margin-top: 23px;
+}
+.poupa img{
+    width: 238px;
+    height: 270px;
+    margin-top: 109px;
+}
+.poupa h1{
+    margin-top: 45px;
+}
+.poupa h3{
+    line-height: 19.53px;
+    margin-top: 23px;
+}
+.indf img{
+    max-width: 187px;
+    max-height: 270px;
+    margin-top: 129px;
+}
+.indf h1{
+    margin-top: 45px;
+}
+.indf h3{
+    line-height: 19.53px;
+    margin-top: 23px;
+}
+
+      
+
+.container2 h1{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 28.73px;
+    color: #FF4081;
+    
+}
+.container2 button{
+    width: 233px;
+    height: 51px;
+    border-radius: 62px;
+    color: #ffffff;
+    background-color: #FF4081;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 22.98px;
+    margin-top: 26px;
+    margin-bottom: 119px;
+}
+.container2 p{
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 19.53px;
+    margin-top: 23px;
+}
+.titleoq{
+    font-size: 37px;
+    font-weight: 700;
+    line-height: 50.47px;
+    color:#009688;
+    margin-top: 119px;
+    max-width: 85%;
+}
+.tituloma{
+    font-size: 37px;
+    font-weight: 700;
+    line-height: 42.51px;
+    color: #009688;
+    max-width: 85%;
+    margin-top: 91px;
+
+}
+.tentativadez{
+    display: inline-flex;
+    margin-top: 78px;
+    margin-left: 138px;
+    
+}
+.tentativadez img{
+    max-width: 150px;
+}
+.tentativadez p{
+    margin-left: 37px;
+    font-size: 18px;
+     line-height: 24.55px;
+    font-weight: 300;
+    margin-right: 150px;
+}
+.alouu{
+    margin-left: 97px;
+}
+.testat{
+    display:inline-flex;
+    margin-top: 86px;
+    margin-left: 138px;
+
+        
+}
+.tentativadez .nomem{
+    font-weight: 400;
+}
+.testat .nomem{
+    font-weight: 400;
+}
+.testat p{
+    margin-left: 37px;
+    font-size: 18px;
+    line-height: 24.55px;
+    font-weight: 300;
+    margin-right: 150px;
+}
+.alouu2{
+    margin-left: 97px;
+}
+
+
+
+.container3{
+    display: flex;
+}
+.container3 .bloco{
+width: 319px;
+height: 193px;
+background-color: #c4c4c4;
+margin-top: 73px;
+}
+.container4{
+    display: flex;
+    margin-top: 11px;
+}
+.container4 h1{
+    font-size: 27px;
+    font-weight: 700;
+    line-height: 31.02px;
+    color: #009688;
+
+}
+.container4 h3{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20.68px;
+}
+.butfinal{
+    width: 289px;
+    height: 51px;
+    border-radius: 62px;
+    border: solid #FF4081 2px;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 28.73px;
+    margin-top: 101px;
+    color: #FF4081;
+    cursor: pointer;
+    margin-left: 800px;
+    margin-bottom: 53px;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    display: flex;
+    background-color: #2E948A;
+    height: 207px;
+
+}
+footer ul{
+list-style: none;
+width: 71px;
+height: 83px;
+margin-top: 53px;
+}
+footer .lista ul li{
+    line-height: 22.98px;
+    font-size: 20px;
+    padding-top: 10px;
+
+
+}
+footer button{
+    border-radius: 62px;
+     color: #ffffff;
+     background-color: #2E948A; 
+     border: solid #ffffff;
+     width: 289px;
+     height: 51px;
+     font-weight: 400;
+     cursor: pointer;
+     align-items:center;
+     font-size: 20px;
+     font-style: regular;
+}
+div .superior{
+    margin-top: 50px;
+}
+div .baixo{
+    margin-top: 13px;
+}
+.rodape{
+     margin-top: 53px;
+
+    
+}

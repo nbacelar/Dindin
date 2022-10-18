@@ -1,0 +1,425 @@
+body {
+    font-family: 'Ubuntu', sans-serif;  
+    font-style: normal;
+}
+.header-top {
+    background-color: #2E948A;
+    height: 117px;
+    width: 1440px;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+}
+.logo {
+    position: absolute;
+    width: 69px;
+    height: 71px;
+    left: 82px;
+    top: 20px;
+    background: url(./dindin-imagens/logo-header.png)
+    }
+.dindin-top {
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: 162px;
+    top: 33px;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FFFFFF;
+}
+.curso-top {
+    position: absolute;
+    width: 80px;
+    height: 23px;
+    left: 1028px;
+    top: 47px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fdfdfd;
+    font-family: 'Ubuntu';
+}
+.blog-top {
+    position: absolute;
+    width: 55px;
+    height: 23px;
+    left: 1150px;
+    top: 47px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fdfdfd;
+    font-family: 'Ubuntu';
+}
+.contato-top {
+    position: absolute;
+    width: 95px;
+    height: 23px;
+    left: 1242px;
+    top: 47px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fdfdfd;
+    font-family: 'Ubuntu';
+}
+h1 {
+    position: absolute;
+    width: 500px; /* alterei do original */
+    height: 108px;
+    left: 239px;
+    top: 239px;
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 54px;
+    color: #009688;
+    text-transform: uppercase;
+}
+.sub1 {
+    position: absolute;
+    width: 461px;
+    height: 110px;
+    left: 239px;
+    top: 387px;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.img-poup {
+    position: absolute;
+    width: 405px;
+    height: 405px;
+    left: 825px;
+    top: 165px; 
+}
+.fundopag {
+    position: absolute;
+    width: 1440px;
+    height: 1712px;
+    left: 0px;
+    top: 622px; /* alterei do original */
+    background: #F7F7F7;
+}
+.sub2 {
+    position: absolute;
+    width: 518px;
+    height: 259px;
+    left: 171px;
+    top: 695px; /* alterei do original */
+    background: #C4C4C4;
+}
+.sub3 {
+    position: absolute;
+    width: 518px;
+    height: 259px;
+    left: 809px;
+    top: 695px; /* alterei do original */
+    background: #C4C4C4;
+}
+.sub4 {
+    position: absolute;
+    width: 518px;
+    height: 259px;
+    left: 171px;
+    top: 1206px; /* alterei do original */
+    background: #C4C4C4;
+}
+.sub5 {
+    position: absolute;
+    width: 518px;
+    height: 259px;
+    left: 809px;
+    top: 1206px; /* alterei do original */
+    background: #C4C4C4;
+}
+.sub6 {
+    position: absolute;
+    width: 518px;
+    height: 259px;
+    left: 171px;
+    top: 1717px; /* alterei do original */
+    background: #C4C4C4;
+}
+.sub7 {
+    position: absolute;
+    width: 518px;
+    height: 259px;
+    left: 809px;
+    top: 1717px;  /* alterei do original */
+    background: #C4C4C4;
+}
+.subtitulo1 {
+    position: absolute;
+    width: 455px;
+    height: 34px;
+    left: 171px;
+    top: 953px; /* alterei do original */
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #FF4081;
+}
+.subtitulo2 {
+    position: absolute;
+    width: 455px;
+    height: 34px;
+    left: 809px;
+    top: 953px;  /* alterei do original */
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #FF4081;
+}
+.subtitulo3 {
+    position: absolute;
+    width: 455px;
+    height: 34px;
+    left: 171px;
+    top: 1464px; /* alterei do original */
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #FF4081; 
+}
+.subtitulo4 {
+    position: absolute;
+    width: 455px;
+    height: 34px;
+    left: 809px;
+    top: 1464px; /* alterei do original */
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #FF4081;
+}
+.subtitulo5 {
+    position: absolute;
+    width: 455px;
+    height: 34px;
+    left: 171px;
+    top: 1975px; /* alterei do original */
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #FF4081;
+}
+.subtitulo6 {
+    position: absolute;
+    width: 455px;
+    height: 34px;
+    left: 809px;
+    top: 1975px; /* alterei do original */
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #FF4081;
+}
+.texto1 {
+    position: absolute;
+    width: 516px;
+    height: 80px;
+    left: 173px;
+    top: 1011px; /* alterei do original */
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.texto2 {
+    position: absolute;
+    width: 516px;
+    height: 80px;
+    left: 811px;
+    top: 1011px; /* alterei do original */
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.texto3 {
+    position: absolute;
+    width: 516px;
+    height: 80px;
+    left: 173px;
+    top: 1522px; /* alterei do original */
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.texto4 {
+    position: absolute;
+    width: 516px;
+    height: 80px;
+    left: 811px;
+    top: 1522px; /* alterei do original */
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    }
+.texto5 { 
+    position: absolute;
+    width: 516px;
+    height: 80px;
+    left: 173px;
+    top: 2033px; /* alterei do original */
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.texto6 {
+    position: absolute;
+    width: 516px;
+    height: 80px;
+    left: 811px;
+    top: 2033px; /* alterei do original */
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+.rodape {
+    position: absolute;
+    width: 1440px;
+    height: 207px;
+    left: 0px;
+    top: 2222px;
+    background-color: #2E948A;
+}
+.curso-rodape {
+    position: absolute;
+    left: 43.26%;
+    right: 51.81%;
+    top: 25.6%;
+    bottom: 34.3%;
+}
+.curso-rodape a{
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 23px;
+    color: #FFFFFF;   
+}
+.logo1 {
+    position: absolute;
+    width: 115px; /* alterei esse do original */
+    height: 105px; /* alterei esse do original */
+    left: 130px; /* alterei esse do original */
+    top: 40px; /* alterei esse do original */
+    background: url(./dindin-imagens/logo-footer.png);
+}
+.dindin-foot {
+    position: absolute;
+    left: 16.81%;
+    right: 69.44%;
+    top: 25%; /* alterei esse do original */
+    bottom: 43.48%;
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 76px;
+    color: #FFFFFF;
+}
+.educ-foot {
+    position: absolute;
+    left: 17.29%;
+    right: 71.04%;
+    top: 57%; /* alterei esse do original */
+    bottom: 27.05%;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    width: 250px; /* adicionei esse do original */
+    color: #FFFFFF;
+}
+.buttonrodape1{
+    box-sizing: border-box;
+    position: absolute;
+    left: 70.42%;
+    right: 9.51%;
+    top: 24.15%;
+    bottom: 51.21%;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+}
+.buttonrodape2 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 70.42%;
+    right: 9.51%;
+    top: 55.07%;
+    bottom: 20.29%;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+}
+.buttonrodapetexto1 {
+    position: absolute;
+    left: 73.26%;
+    right: 12.36%;
+    top: 30.92%;
+    bottom: 57.97%;        
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px; 
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.buttonrodapetexto2 {
+    position: absolute;
+    left: 73.26%;
+    right: 12.36%;
+    top: 61.84%;
+    bottom: 26.57%;        
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px; 
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+@media screen and (max-width:480px){
+    *{
+        max-width: 480px;
+        margin: 0 auto;
+
+    }
+    .header-top{
+        width: 100vw;
+    }
+
+}

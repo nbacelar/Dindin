@@ -1,0 +1,403 @@
+body {
+    font-family: 'Ubuntu', sans-serif;  
+    font-style: normal;
+}
+.header-top {
+    background-color: #2E948A;
+    height: 117px;
+    width: 1440px;
+    box-shadow: 0px 3px 7px rgba(0, 0, 0, 0.25);
+}
+.logo {
+    position: absolute;
+    width: 69px;
+    height: 71px;
+    left: 82px;
+    top: 20px;
+    background: url(/Gama-Project-main/dindin-imagens/logo-header.png)
+    }
+.dindin-top {
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: 162px;
+    top: 33px;
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 64px;
+    color: #FFFFFF;
+}
+.curso-top {
+    position: absolute;
+    width: 80px;
+    height: 23px;
+    left: 1028px;
+    top: 47px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fdfdfd;
+    font-family: 'Ubuntu';
+}
+.blog-top {
+    position: absolute;
+    width: 55px;
+    height: 23px;
+    left: 1150px;
+    top: 47px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fdfdfd;
+    font-family: 'Ubuntu';
+}
+.contato-top {
+    position: absolute;
+    width: 95px;
+    height: 23px;
+    left: 1242px;
+    top: 47px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fdfdfd;
+    font-family: 'Ubuntu';
+}
+h1 {
+    position: absolute;
+    width: 263px;
+    height: 69px;
+    left: 82px;
+    top: 198px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    text-transform: capitalize;
+    color: #FF4081;
+}
+.sub1 {
+    position: absolute;
+    width: 350px; /* alterei do original */
+    height: 23px;
+    left: 82px;
+    top: 267px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #555555;
+    padding-top: 3%; /* alterei do original */
+}
+.iniciantes {
+    position: absolute;
+    width: 1157px;
+    height: 381px;
+    left: 112px;
+    top: 385px;
+}
+.iniciantes img {
+    position: absolute;
+    left: 0%; /* alteirei esse do original */
+    right: 65.83%;
+    top: 8.84%; /* alteirei esse do original */
+    bottom: 68.49%;
+
+}
+.tituloinvest {
+    position: absolute;
+    width: 512px;
+    height: 40px;
+    left: 545px;
+    top: 406px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    color: #FF4081;
+}
+.texto1 {
+    position: absolute;
+    width: 724px;
+    height: 105px;
+    left: 545px;
+    top: 483px; /* alterei esse do exemplo para ficar mais embaixo. Era 483 px*/ 
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+}
+h3 {
+    position: absolute;
+    width: 512px;
+    height: 40px;
+    left: 545px;
+    top: 465px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    color: #FF4081;
+}
+.buttoncomecar1 {
+    position: absolute;
+    width: 233px;
+    height: 51px;
+    left: 545px;
+    top: 670px; /* alterei esse do exemplo para ficar mais embaixo. Era 641 px*/ 
+    background: #419488;
+    border-radius: 62px;
+}
+.buttoncomecar2 {
+    position: absolute;
+    width: 216px;
+    height: 15px;
+    left: 554px;
+    top: 683px; /* alterei esse do exemplo para ficar mais embaixo. Era 654 px*/ 
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.linha1 {
+    position: absolute;
+    width: 1244px;
+    height: 5px;
+    left: 82px;
+    top: 834px;
+    background: #C4C4C4;
+}
+.titulopoup {
+    position: absolute;
+    width: 373px;
+    height: 40px;
+    left: 545px;
+    top: 947px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    color: #FF4081;
+}
+.texto2 {
+    position: absolute;
+    width: 724px;
+    height: 105px;
+    left: 545px;
+    top: 1024px;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+.buttoncomecar3 {
+    position: absolute;
+    width: 233px;
+    height: 51px;
+    left: 545px;
+    top: 1249px;  /* alteirei esse do original */
+    background: #2E948A;
+    border-radius: 62px;
+}
+.buttoncomecar4 {
+    position: absolute;
+    width: 216px;
+    height: 25px;
+    left: 554px;
+    top: 1261px;  /* alteirei esse do original */
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.imgplanta {
+    position: absolute;
+    width: 1157px;
+    height: 385px;
+    left: 112px;
+    top: 946px;
+}
+.imgplanta img{
+    position: absolute;
+    left: 0%; /* alteirei esse do original */
+    right: 65.83%;
+    top: 8.84%; /* alteirei esse do original */
+    bottom: 45.25%;
+}
+.linha2 {
+    position: absolute;
+    width: 1244px;
+    height: 5px;
+    left: 98px;
+    top: 1424px;
+    background: #C4C4C4;  
+}
+.tituloindep {
+    position: absolute;
+    width: 425px;
+    height: 40px;
+    left: 534px;
+    top: 1581px;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    color: #FF4081;
+    text-align: center;
+}
+.texto3 {
+    position: absolute;
+    width: 724px;
+    height: 105px;
+    left: 560px;
+    top: 1658px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: #000000;
+}
+.buttoncomecar5 {
+    position: absolute;
+    width: 233px;
+    height: 51px;
+    left: 561px;
+    top: 1850px; /* alterei esse do original */
+    background: #2E948A;
+    border-radius: 62px;
+}
+.buttoncomecar6 {
+    position: absolute;
+    width: 216px;
+    height: 25px;
+    left: 570px;
+    top: 1863px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.imgtopo{
+    position: absolute;
+    width: 1156px;
+    height: 498px;
+    left: 128px;
+    top: 1522px;
+}
+.imgtopo img {
+    position: absolute;
+    left: 0%;
+    right: 64.72%;
+    top: 8.84%;
+    bottom: 16.91%;
+}
+.rodape {
+    position: absolute;
+    width: 1440px;
+    height: 207px;
+    left: 0px;
+    top: 2222px;
+    background-color: #2E948A;
+}
+.curso-rodape {
+    position: absolute;
+    left: 43.26%;
+    right: 51.81%;
+    top: 25.6%;
+    bottom: 34.3%;
+}
+.curso-rodape a{
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 23px;
+    color: #FFFFFF;   
+}
+.logo1 {
+    position: absolute;
+    width: 115px; /* alterei esse do original */
+    height: 105px; /* alterei esse do original */
+    left: 130px; /* alterei esse do original */
+    top: 40px; /* alterei esse do original */
+    background: url(/Gama-Project-main/dindin-imagens/logo-footer.png);
+}
+.dindin-foot {
+    position: absolute;
+    left: 16.81%;
+    right: 69.44%;
+    top: 25%; /* alterei esse do original */
+    bottom: 43.48%;
+    font-weight: 500;
+    font-size: 66px;
+    line-height: 76px;
+    color: #FFFFFF;
+}
+.educ-foot {
+    position: absolute;
+    left: 17.29%;
+    right: 71.04%;
+    top: 57%; /* alterei esse do original */
+    bottom: 27.05%;
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 22px;
+    width: 250px; /* adicionei esse do original */
+    color: #FFFFFF;
+}
+.buttonrodape1{
+    box-sizing: border-box;
+    position: absolute;
+    left: 70.42%;
+    right: 9.51%;
+    top: 24.15%;
+    bottom: 51.21%;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+}
+.buttonrodape2 {
+    box-sizing: border-box;
+    position: absolute;
+    left: 70.42%;
+    right: 9.51%;
+    top: 55.07%;
+    bottom: 20.29%;
+    border: 2px solid #FFFFFF;
+    border-radius: 62px;
+}
+.buttonrodapetexto1 {
+    position: absolute;
+    left: 73.26%;
+    right: 12.36%;
+    top: 30.92%;
+    bottom: 57.97%;        
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px; 
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.buttonrodapetexto2 {
+    position: absolute;
+    left: 73.26%;
+    right: 12.36%;
+    top: 61.84%;
+    bottom: 26.57%;        
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px; 
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none; 
+    
+}
