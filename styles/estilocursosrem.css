@@ -192,10 +192,6 @@ div .baixo{
         padding-top: 5px;
         margin: 0;
     }
-        header ul li{
-    list-style: none;
-    margin-top: 47px;
-    margin-left: 30px;
             
     .banner {
         display: grid;
@@ -383,7 +379,7 @@ div .baixo{
                height: 2.5rem;
              padding: 0;
              width: 19.5rem;
-    
+       
     
     
         }
